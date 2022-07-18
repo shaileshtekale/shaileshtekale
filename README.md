@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaileshtekale
 - 👀 I’m interested in ...Developing webapps
-- 🌱 I’m currently learning ...C#,Spring boot, Java, Web development
+- 🌱 I’m currently learning ...Spring boot, Java, Web development
 
 
 <!---
